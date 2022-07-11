@@ -1,11 +1,11 @@
 
-# Tech Blog
+# NoSQL Social Network API
 
 
 ## Description
-AS A developer who writes about tech
-I WANT a CMS-style blog site
-SO THAT I can publish articles, blog posts, and my thoughts and opinions
+AS A social media startup
+I WANT an API for my social network that uses a NoSQL database
+SO THAT my website can handle large amounts of unstructured data
 
 
 ## Tools and Languages
