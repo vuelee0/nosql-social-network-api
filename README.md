@@ -39,3 +39,5 @@ For any questions about this project, contact me at:
 
 
 ## Demo Video Link
+Part1 https://drive.google.com/file/d/1KLncuaZWOFO9tUE2PUcxkDBHEWo-FEz4/view
+Part2 https://drive.google.com/file/d/1U8L3jn0eV92Cm7Dgw08AFSyE3HypRD7W/view
